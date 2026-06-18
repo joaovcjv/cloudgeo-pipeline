@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "sample_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"id":1,"name":"Point A","category":"education"},"geometry":{"type":"Point","coordinates":[-8.6538,40.6405]}},
+{"type":"Feature","properties":{"id":2,"name":"Point B","category":"health"},"geometry":{"type":"Point","coordinates":[-8.65,40.642]}},
+{"type":"Feature","properties":{"id":3,"name":"Point C","category":"transport"},"geometry":{"type":"Point","coordinates":[-8.66,40.638]}}
+]
+}
